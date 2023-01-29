@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x3b46E7E4689086BB147F03B1F092D9750E1a06f1", 
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0x3b46e7e4689086bb147f03b1f092d9750e1a06f1",
+  "CONTRACT_ADDRESS": "0x751d9a697A1E23eC0182B1E50CCa402c437DA787", 
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x751d9a697a1e23ec0182b1e50cca402c437da787",
   "NETWORK": {
-    "NAME": "Ethereum",
+    "NAME": "Goerli",
     "SYMBOL": "ETH",
-    "ID": 1
+    "ID": 5
   },
-  "NFT_NAME": "Love Story Unicorns",
-  "SYMBOL": "LSU",
-  "MAX_SUPPLY": 10000,
-  "WEI_COST": 100000000000000000,
-  "DISPLAY_COST": 0.1,
+  "NFT_NAME": "Love Story Unicorns Demo",
+  "SYMBOL": "LSUD",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 160000000000000000,
+  "DISPLAY_COST": 0.16,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lovestoryunicorndemo",
   "SHOW_BACKGROUND": false
 }
