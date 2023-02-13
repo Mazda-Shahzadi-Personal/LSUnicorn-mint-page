@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x751d9a697A1E23eC0182B1E50CCa402c437DA787", 
-  "SCAN_LINK": "https://goerli.etherscan.io/address/0x751d9a697a1e23ec0182b1e50cca402c437da787",
+  "CONTRACT_ADDRESS": "0x7c0CC4df29cD600FeaBB7Cc5A91e7c61B8e56675", 
+  "SCAN_LINK": "https://etherscan.io/address/0x7c0cc4df29cd600feabb7cc5a91e7c61b8e56675",
   "NETWORK": {
-    "NAME": "Goerli",
+    "NAME": "mainnet",
     "SYMBOL": "ETH",
-    "ID": 5
+    "ID": 1
   },
-  "NFT_NAME": "Love Story Unicorns Demo",
-  "SYMBOL": "LSUD",
-  "MAX_SUPPLY": 10,
+  "NFT_NAME": "Love Story Unicorns",
+  "SYMBOL": "LSU",
+  "MAX_SUPPLY": 10000,
   "WEI_COST": 160000000000000000,
   "DISPLAY_COST": 0.16,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/lovestoryunicorndemo",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/lovestoryunicorns",
   "SHOW_BACKGROUND": true
 }
