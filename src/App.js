@@ -367,8 +367,8 @@ function App() {
                       <br></br>
                       <CrossmintPayButton
                 clientId="9382fb2b-5c2d-4c48-821d-e64d775869f5"
-                mintConfig={{"type":"erc-721","totalPrice":(mintAmount * 0.16).toString(),"_mintAmount":mintAmount}}
-                mintTo={blockchain.account?blockchain.account:null}
+                mintConfig={{"type":"erc-721","totalPrice":(mintAmount * 0.16).toString(),"_mintAmount":mintAmount.toString()}}
+                mintTo={blockchain.account?blockchain.account:""}
                   />
                   
                     </s.Container>
